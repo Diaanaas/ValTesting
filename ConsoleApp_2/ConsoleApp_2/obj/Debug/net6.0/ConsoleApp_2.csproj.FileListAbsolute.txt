@@ -1,0 +1,15 @@
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\bin\Debug\net6.0\ConsoleApp_2.exe
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\bin\Debug\net6.0\ConsoleApp_2.deps.json
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\bin\Debug\net6.0\ConsoleApp_2.runtimeconfig.json
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\bin\Debug\net6.0\ConsoleApp_2.dll
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\bin\Debug\net6.0\ConsoleApp_2.pdb
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.csproj.AssemblyReference.cache
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.AssemblyInfoInputs.cache
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.AssemblyInfo.cs
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.csproj.CoreCompileInputs.cache
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.dll
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\refint\ConsoleApp_2.dll
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.pdb
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ConsoleApp_2.genruntimeconfig.cache
+C:\Users\OCZ_User\source\repos\ConsoleApp_2\ConsoleApp_2\obj\Debug\net6.0\ref\ConsoleApp_2.dll
